@@ -37,7 +37,7 @@ public class Calculator {
         double result = this.calculate(number1, number2, operationCode);
 
         System.out.println("Resultado: " + result);
-        System.out.println("");
+        System.out.println(" ");
 
         // Show menu again
         this.showMenu();
